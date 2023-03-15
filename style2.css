@@ -1,0 +1,17 @@
+.background-header {
+  width: auto;
+  height: 50vh;
+  background-image: url("https://images.unsplash.com/photo-1678389971621-9e7eda4b2323?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.fixed-top {
+  background-color: rgb(211, 86, 40);
+  transition: background-color 300ms linear;
+}
+
+a .fixed-top {
+  color: white;
+}

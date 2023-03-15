@@ -20,3 +20,18 @@ body {
   margin-left: -30px;
   margin-top: 8px;
 }
+
+input .form-check-input {
+  color: red !important;
+}
+
+/* creating a custom checkbox based
+            on demand */
+.geekmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  /* background-color: green; */
+}
